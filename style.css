@@ -9,7 +9,7 @@ body {
  width: fit-content;
  object-fit: cover;
  width: 1590px;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 /* >>>>>> Navbar <<<<<<<< */
